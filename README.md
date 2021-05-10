@@ -1,6 +1,4 @@
-# blog-website
-A complete blogging website in PHP
-
+# Blog
 This Blog System is developed using HTML, CSS, JavaScript, PHP and MySQL.
 To run this Blog System. Use the blog.sql file and import it to your local PHPMyAdmin and then copy or clone the files to your local PHP Server directory.
 It has all the features like:
@@ -17,4 +15,3 @@ It has all the features like:
 11) Featured Image
 12) Admin Dashboard
 13) Viewer Count for Each Post
-
